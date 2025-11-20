@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Information Disclosure Vulnerability Finder
-# Author: Cybersecurity Expert
+# Author: Cyber_pent
 # Version: 1.0
 # Description: Advanced tool for detecting information disclosure vulnerabilities
 # Usage: ./vuln_finder.sh <URL or file_with_endpoints>
