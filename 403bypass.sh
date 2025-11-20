@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # exampleBug Bounty 403 Bypass Tester
-# Author: Soumen + GPT
+# Author: Cyber_pent
 # Note: Keep requests ≤ 6/sec per exampleguidelines
 
 # ---------- CONFIG ----------
@@ -75,7 +75,7 @@ done
 #!/bin/bash
 
 # exampleBug Bounty 403 Bypass Tester
-# Author: Soumen
+# Author: Cyber_pent
 # Note: Keep requests ≤ 6/sec per exampleguidelines
 
 # ---------- CONFIG ----------
