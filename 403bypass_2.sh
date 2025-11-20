@@ -1,7 +1,7 @@
 #!/bin/bash
 
-# Porsche Bug Bounty 403 Bypass Tester - Extended Wordlist
-# Author: Soumen + GPT
+# Bug Bounty 403 Bypass Tester - Extended Wordlist
+# Author: Soumen
 # Usage: ./403bypass.sh https://target.com
 
 TARGET=$1
@@ -60,7 +60,7 @@ test_url() {
     echo -e "\n" >> results.log
   fi
 
-  sleep 0.2   # 5 requests/sec (safe under Porsche policy)
+  sleep 0.2   # 5 requests/sec (safe  policy)
 }
 
 test_headers() {
@@ -75,7 +75,7 @@ test_headers() {
 # ---------- MAIN ----------
 if [[ -z "$TARGET" ]]; then
   echo "Usage: $0 <target-url>"
-  echo "Example: $0 https://porsche.com"
+  echo "Example: $0 https://example.com"
   exit 1
 fi
 
