@@ -2,7 +2,7 @@
 
 # Advanced Command Injection Vulnerability Scanner
 # Zero False Positive Edition with Automated Payload Management
-# Author: Cybersecurity Expert
+# Author: cyber_pent
 # Version: 3.0
 
 # Color codes for output
