@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# 403 Bypass Scanner for Ferrari domains
+# 403 Bypass Scanner 
 # Usage: ./403bypass.sh urls.txt
 
 # Payloads for 403 bypass
