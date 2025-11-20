@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # LFI Endpoint Extractor Toolkit
-# Author: Security Tooling
+# Author: Cyber_pent
 # Version: 2.0
 
 set -e
