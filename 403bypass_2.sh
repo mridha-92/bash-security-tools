@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Bug Bounty 403 Bypass Tester - Extended Wordlist
-# Author: Soumen
+# Author: Cyber_pent
 # Usage: ./403bypass.sh https://target.com
 
 TARGET=$1
