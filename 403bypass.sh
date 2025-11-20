@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# Porsche Bug Bounty 403 Bypass Tester
+# exampleBug Bounty 403 Bypass Tester
 # Author: Soumen + GPT
-# Note: Keep requests ≤ 6/sec per Porsche guidelines
+# Note: Keep requests ≤ 6/sec per exampleguidelines
 
 # ---------- CONFIG ----------
 TARGET=$1
@@ -61,7 +61,7 @@ test_headers() {
 # ---------- MAIN ----------
 if [[ -z "$TARGET" ]]; then
   echo "Usage: $0 <target-url>"
-  echo "Example: $0 https://porsche.com/config.php"
+  echo "Example: $0 https://eample.com/config.php"
   exit 1
 fi
 
@@ -74,9 +74,9 @@ for word in "${WORDLIST[@]}"; do
 done
 #!/bin/bash
 
-# Porsche Bug Bounty 403 Bypass Tester
-# Author: Soumen + GPT
-# Note: Keep requests ≤ 6/sec per Porsche guidelines
+# exampleBug Bounty 403 Bypass Tester
+# Author: Soumen
+# Note: Keep requests ≤ 6/sec per exampleguidelines
 
 # ---------- CONFIG ----------
 TARGET=$1
@@ -135,7 +135,7 @@ test_headers() {
 # ---------- MAIN ----------
 if [[ -z "$TARGET" ]]; then
   echo "Usage: $0 <target-url>"
-  echo "Example: $0 https://porsche.com/config.php"
+  echo "Example: $0 https://example.com/config.php"
   exit 1
 fi
 
